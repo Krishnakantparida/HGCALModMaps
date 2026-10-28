@@ -5,5 +5,10 @@ TestDXFfiles/Cassette_*
 TestDXFfiles
 ExamplesMaps
 ExamplesMaps/*
+.venv
+*.py[cod]
+*.dxf
 *.json
+__pycache__/
+*~
 PrintDF.py
